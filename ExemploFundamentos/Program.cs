@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ExemploFundamentos.Common.Models;
+
+Calculadora calc = new Calculadora();
+Pessoa      pess = new Pessoa();
+
