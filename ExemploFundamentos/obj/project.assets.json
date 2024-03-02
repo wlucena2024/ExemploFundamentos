@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ExemploFundamentos.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ExemploFundamentos.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExemploFundamentos.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "path": "../ExemploFundamentos.Common/ExemploFundamentos.Common.csproj",
+      "msbuildProject": "../ExemploFundamentos.Common/ExemploFundamentos.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ExemploFundamentos.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\wellington.lucena\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Curso .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Curso .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\wellington.lucena\\.nuget\\packages\\",
-      "outputPath": "C:\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Curso .NET\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wellington.lucena\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Curso .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\Curso .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

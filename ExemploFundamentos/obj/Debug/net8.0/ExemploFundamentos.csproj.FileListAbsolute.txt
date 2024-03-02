@@ -1,0 +1,6 @@
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
