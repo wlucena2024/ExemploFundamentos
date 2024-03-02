@@ -4,3 +4,16 @@ C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFund
 C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
 C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
 C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CopyComplete
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Curso .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
