@@ -70,5 +70,11 @@ namespace ExemploFundamentos.Common.Models
            double raiz = Math.Sqrt(x);
            Console.WriteLine($"Raiz quadrada de {x} = {Math.Round(raiz,2)}");
        }
+
+       public void Porcentagem(int x, int y)
+       {
+          double Porcentagem = ( x / y ) * 100;
+          Console.WriteLine($"A porcentagem de {x} por {y} é {Porcentagem}");
+       }
     }
 }
